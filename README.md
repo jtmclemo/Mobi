@@ -409,7 +409,3 @@ Otter N, Porter MA, Tillmann U, Grindrod P, Harrington HA. A roadmap for the com
 If you use Möbi in research or downstream analyses, please cite it as software:
 
 McLemore J. *Möbi: a Topological data analysis assisted optimization framework for designing broad-spectrum multivalent neopeptide pools* [software]. Version 1.0.0; 2026. Available from: GitHub repository.
-
-##
-
-Please contact me if you have any questions or concerns at jcb.mclemore@gmail.com. Thank you. 
